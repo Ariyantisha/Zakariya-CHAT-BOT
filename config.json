@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "ZAKARIYA Tisha",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "Zakariya chat bot",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
